@@ -1,0 +1,5 @@
+export const DarkBlueGreycolor="#034168"
+export const LightBlueGreycolor="#809DAF"
+export const GreenColor="#7dec82"
+export const Text1="This is an in-app notification snackbar to show to the user when they perform an action. Clicking it should change the text"
+export const Text2="User clicked snackbar"
